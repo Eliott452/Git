@@ -1,6 +1,6 @@
 # Projet MEILKIAO
 
-Meilkiao Vos jeux préféré.
+Meilkiao Vos jeux préférés.
 
 # But
 
