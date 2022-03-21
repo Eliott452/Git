@@ -23,4 +23,3 @@ Git
 
 Stackoverflow
 
-# Git
